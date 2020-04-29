@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 
-Added 2nd line
+
+=======
+Hello World
+>>>>>> 95534e8e82efa7fdbf23deda6012534423b3aeaa
