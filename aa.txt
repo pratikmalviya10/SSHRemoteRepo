@@ -1,8 +1,13 @@
 This line is added in feature-one<<<<<<< HEAD
 
+<<<<<<< Updated upstream
 This is added in mastr brnachOKPKEWPKOPJWEPOPJ2O32	J`
 his is add
 This is add
+=======
+This is added in mastr brnach
+This is 2bnd lind added in master branch 
+>>>>>>> Stashed changes
 
 
 =======
